@@ -14,6 +14,7 @@ namespace HelloWorldXamarinForms2
             InitializeComponent();
 
             // Creates Main Page
+            // Thnks
             MainPage = new HelloWorldXamarinForms2.MainPage();
         }
 
